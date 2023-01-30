@@ -1,38 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Mks Shop
 
-## Getting Started
+## Funcionalidades:
+- Adicionar um item ao carrinho, modificar sua quantidade e fazera compra do item.
 
-First, run the development server:
+## Descrição:
+- Esse é um projeto desenvolvido como um desafio pessoal, onde funciona como um e-commerce com suas funções principais, como adicionar um item ao carrinho, mudar a quantidade deste item e comprar um item.
+- O projeto é desenvolvido com styled-components onde visa em tornar mais simples a estilização dos components pela mudança de estado.
+- Utiliza a biblioteca Zod para validação de formulários.
+- Usa a context API para compatilhar os estados entre components, como por exemplo passar os estados dos ciclos para a página History listar os ciclos com seus estados atuais.
+- Usa o Redux para manusear os estados compartilhados de forma mais prática e simples.
+- Utiliza a Reack-hook-forms para gerenciar os estados de dados no formulário
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Apresentação do Pojeto:
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Gostou do meu projeto? :D Entre em contato comigo! 
+- [Linkedin](https://www.linkedin.com/in/abner-santos-b195b8228/) <br/>
+- [Email: abner.kif1@gmail.com](mailto:abner.kif1@gmail.com)
+- <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB%22">
